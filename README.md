@@ -1,4 +1,4 @@
-# AES-256 Encryption Tool
+# AES-256 Encryption Tool.
 
 *COMPANY*: CODTECH IT SOLUTIONS 
 
@@ -57,3 +57,4 @@ A sample file `testfile.txt` is included for testing. Try encrypting and then de
 
 ## License
 This project is for educational and internship purposes. 
+
