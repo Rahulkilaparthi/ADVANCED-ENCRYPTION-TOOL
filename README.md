@@ -1,16 +1,6 @@
 # AES-256 Encryption Tool.
 
-*COMPANY*: CODTECH IT SOLUTIONS 
-
 *NAME*: Kilaparthi Rahul
-
-*INTERN ID*: :CT06DA36
-
-*DOMAIN*:  Cyber Security & Ethical Hacking
-
-*DURATION*: 6 WEEEKS 
-
-*MENTOR*: NEELA SANTOSH
 
 This is a simple and robust file encryption and decryption tool built with Python. It uses the AES-256 algorithm for strong encryption and provides a user-friendly graphical interface.
 
@@ -57,4 +47,5 @@ A sample file `testfile.txt` is included for testing. Try encrypting and then de
 
 ## License
 This project is for educational and internship purposes. 
+
 
